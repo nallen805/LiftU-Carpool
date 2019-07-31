@@ -7,7 +7,11 @@ This is a simple application using Angular 6. It's a car sharing service, simila
 <strong>Installation:</strong>
 To use this application, you must have Angular 6 (or later) installed on your local machine. You can download from here: 
 
-Using npm: npm install -g @angular/cli
+Using npm: npm install -g @angular/cli 
+<br>
+Or, follow this link:
+https://angular.io/
+
 
 <strong>Usage:</strong>
 ![Here](https://j.gifs.com/WLwwGn.gif)
